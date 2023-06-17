@@ -1,0 +1,10 @@
+https://docs.nestjs.com/first-steps
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
+https://www.commandprompt.com/education/how-to-install-pgadmin-on-ubuntu/
+https://docs.nestjs.com/openapi/introduction
+https://sequelize.org/docs/v6/other-topics/dialect-specific-things/
+https://www.freecodecamp.org/news/build-web-apis-with-nestjs-beginners-guide/
+https://github.com/Bilal-Bangash/redux-hooks
+https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/
+https://www.tomray.dev/nestjs-docker-production
+https://blog.devgenius.io/connect-locally-hosted-postgresql-from-docker-daffea720af1
